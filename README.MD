@@ -1,0 +1,4 @@
+
+# Welcome!
+
+This is my C repo which I use to document my progress while I teach myself C
